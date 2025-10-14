@@ -1,0 +1,2337 @@
+{
+	"parent": [
+		{
+			"token": [
+				"RT",
+				"@iknowplacesmp3",
+				":",
+				"The",
+				"old",
+				"Taylor",
+				"when",
+				"Babe",
+				"and",
+				"Better",
+				"Man",
+				"came",
+				"out"
+			],
+			"img_id": "twitter_stream_2018_06_11_23_0_2_36.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Taylor",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Babe",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"relation": "parent"
+					}
+				]
+			],
+			"image_caption": [
+				"a man holding a microphone up to a crowd of people on a stage"
+			],
+			"handcrafted_knowledge": "Taylor is a name and Babe means a small baby, so we can guess that Taylor is a parent of Babe."
+		},
+		{
+			"token": [
+				"RT",
+				"@blusewillis",
+				":",
+				"Robin",
+				"Williams",
+				"e",
+				"sua",
+				"figlia",
+				"Zelda",
+				"Williams",
+				"."
+			],
+			"img_id": "twitter_stream_2018_07_23_10_0_2_65.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Robin Williams",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Zelda Williams",
+							"pos": [
+								8,
+								10
+							],
+							"tags": "per"
+						},
+						"relation": "parent"
+					}
+				]
+			],
+			"image_caption": [
+				"a man and a woman sitting on a couch playing on their electronic devices"
+			],
+			"handcrafted_knowledge": "A man and a women have the same last name called Williams, so they might come from the same family. Robin is usually a name of men, while Zelda of women. Judging from the picture, the man is much older than the woman, so Robin is a parent of Zelda."
+		}
+	],
+	"siblings": [
+		{
+			"token": [
+				"RT",
+				"@nickypetre1",
+				":",
+				"HAPPY",
+				"4th",
+				"BIRTHDAY",
+				"Gabby",
+				".",
+				"Lots",
+				"of",
+				"love",
+				"Molly",
+				"and",
+				"Sammy",
+				"#",
+				"4thcandle",
+				"#",
+				"freenazanin"
+			],
+			"img_id": "twitter_stream_2018_06_11_20_0_2_207.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Molly",
+							"pos": [
+								11,
+								12
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Sammy",
+							"pos": [
+								13,
+								14
+							],
+							"tags": "per"
+						},
+						"relation": "siblings"
+					}
+				]
+			],
+			"image_caption": [
+				"two children standing in front of a garden"
+			],
+			"handcrafted_knowledge": "Molly and Sammy are celebrating birthday together, which means they may be born at the same day. The picture shows that they have similar age, so they are probably siblings."
+		},
+		{
+			"token": [
+				"RT",
+				"@TractusFynn",
+				":",
+				"\"",
+				"Alex",
+				"Jones",
+				"\"",
+				"I",
+				"find",
+				"Davy",
+				"Jones",
+				"more",
+				"credible",
+				"than",
+				"his",
+				"brother",
+				"Alex",
+				"."
+			],
+			"img_id": "twitter_stream_2018_08_07_21_0_2_87.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Davy Jones",
+							"pos": [
+								9,
+								11
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Alex Jones",
+							"pos": [
+								4,
+								6
+							],
+							"tags": "per"
+						},
+						"relation": "siblings"
+					}
+				]
+			],
+			"image_caption": [
+				"an image of a man with enormousoctopus tentacles"
+			],
+			"handcrafted_knowledge": "Alex and Davy have the same last name called Jones, so they might come from the same family. The sentence mentioned the word brother, then we may guess they are siblings."
+		}
+	],
+	"couple": [
+		{
+			"token": [
+				"RT",
+				"@agbsmoonlights",
+				":",
+				"Ariana",
+				"and",
+				"Pete",
+				"are",
+				"engaged",
+				"I",
+				"am",
+				"so",
+				"shook"
+			],
+			"img_id": "twitter_stream_2018_06_11_20_0_2_21.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Ariana",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Pete",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"relation": "couple"
+					}
+				]
+			],
+			"image_caption": [
+				"a screenshot of a conversation between two people on a cell phone"
+			],
+			"handcrafted_knowledge": "The word engaged has the meaning of having agreed to marry somebody. Ariana Grande is a famous female singer and Pete Davidson is a famous male movie star, they had a relationship in 2018 and were even engaged for roughly four months."
+		},
+		{
+			"token": [
+				"RT",
+				"@gfherald",
+				":",
+				"Marilyn",
+				"Hagerty",
+				":",
+				"Bourdain",
+				"'",
+				"tall",
+				"and",
+				"handsome",
+				"and",
+				"pleasant",
+				"'"
+			],
+			"img_id": "twitter_stream_2018_06_11_23_0_2_90.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Marilyn Hagerty",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Bourdain",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "per"
+						},
+						"relation": "couple"
+					}
+				]
+			],
+			"image_caption": [
+				"a man and a woman standing next to each other"
+			],
+			"handcrafted_knowledge": "Marilyn Hagerty, a woman, thinks Bourdain, a man, is tall and handsome and pleasant, which shows that she has an affection towards him. Therefore, they might be a couple."
+		}
+	],
+	"neighbor": [
+		{
+			"token": [
+				"RT",
+				"@ArchieComics",
+				":",
+				"Betty",
+				"and",
+				"Archie",
+				"working",
+				"on",
+				"the",
+				"jalopy",
+				"together",
+				".",
+				"Nostalgia",
+				"overload",
+				".",
+				"#",
+				"Riverdale"
+			],
+			"img_id": "twitter_stream_2018_10_10_21_0_2_227.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Betty",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Archie",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"relation": "neighbor"
+					}
+				]
+			],
+			"image_caption": [
+				"a group of people riding in a red car"
+			],
+			"handcrafted_knowledge": "Archie and Betty are charactors in TV series Riverdale. In their childhood, they lived next door to one another and became best friends."
+		},
+		{
+			"token": [
+				"RT",
+				"@RiceBowlMY",
+				":",
+				"Childhood",
+				"memories",
+				"!",
+				"Different",
+				"generations",
+				"of",
+				"TOM",
+				"and",
+				"JERRY",
+				"!"
+			],
+			"img_id": "twitter_stream_2018_06_11_26_0_2_180.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "TOM",
+							"pos": [
+								9,
+								10
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "JERRY",
+							"pos": [
+								11,
+								12
+							],
+							"tags": "per"
+						},
+						"relation": "neighbor"
+					}
+				]
+			],
+			"image_caption": [
+				"the evolution of cats in different colors and animations"
+			],
+			"handcrafted_knowledge": "Tom and Jerry is a cartoon, featuring a cat named Tom chasing a mouse named Jerry through their home, the streets, and around the world! These chases often involved Tom getting into awkward situations and being putting immense pain while Jerry toyed with him and got the last laugh. They usually live in the same house, so they are neighbors."
+		}
+	],
+	"peer": [
+		{
+			"token": [
+				"RT",
+				"@thehill",
+				":",
+				"Karl",
+				"Rove",
+				"compares",
+				"Trump",
+				"to",
+				"Stalin"
+			],
+			"img_id": "twitter_stream_2018_08_07_24_0_2_5.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Karl Rove",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Trump",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "per"
+						},
+						"relation": "peer"
+					}
+				]
+			],
+			"image_caption": [
+				"politician speaks into a microphone during a speech"
+			],
+			"handcrafted_knowledge": "Karl Christian Rove is an American Republican political consultant, policy advisor, and lobbyist. He has headed the Office of Political Affairs, the Office of Public Liaison, and the White House Office of Strategic Initiatives. Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States. Rove was an advisor to Trump's 2020 presidential campaign, so they were peers."
+		},
+		{
+			"token": [
+				"RT",
+				"@junkyultimate",
+				":",
+				"the",
+				"way",
+				"Junkyu",
+				"called",
+				"Mashiho",
+				"and",
+				"smiled",
+				"seeing",
+				"him",
+				"to",
+				"wait",
+				"for",
+				"an",
+				"answer",
+				"....",
+				"i",
+				"just",
+				"miss",
+				"them"
+			],
+			"img_id": "twitter_19_31_22_53.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Junkyu",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Mashiho",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"relation": "peer"
+					}
+				]
+			],
+			"image_caption": [
+				"two young men standing next to each other posing for a picture"
+			],
+			"handcrafted_knowledge": "Junkyu and Mashiho are members of the Korean boy group TREASURE. Junkyu’s official position in TREASURE is vocalist and visual, while Mashiho’s official position is main dancer, vocalist and visual."
+		}
+	],
+	"charges": [
+		{
+			"token": [
+				"RT",
+				"@dcexaminer",
+				":",
+				"Trump",
+				"asks",
+				"why",
+				"Lisa",
+				"Page",
+				"resigned",
+				"from",
+				"FBI",
+				",",
+				"but",
+				"Peter",
+				"Strzok",
+				"did",
+				"not"
+			],
+			"img_id": "twitter_stream_2018_05_07_12_0_2_211.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Trump",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Peter Strzok",
+							"pos": [
+								13,
+								15
+							],
+							"tags": "per"
+						},
+						"relation": "charges"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Lisa Page",
+							"pos": [
+								6,
+								8
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "FBI",
+							"pos": [
+								10,
+								11
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				]
+			],
+			"image_caption": [
+				"the president gestures as he speaks into a microphone while holding his hand up"
+			],
+			"handcrafted_knowledge": "Donald Trump is a businessman who served as the 45th president of the United States. FBI is the Federal Bureau of Investigation, the domestic intelligence and security service of the United States. Lisa Page is an American past FBI lawyer, while Peter Paul Strzok is a former United States FBI agent. They were also criticized by Trump for their disparaging texts about him. So we can conclude that Trump charges Peter Strzok and Lisa Page was a member of FBI."
+		},
+		{
+			"token": [
+				"RT",
+				"@tostvnetwork",
+				":",
+				"Acting",
+				"President",
+				"Osinbajo",
+				"sacks",
+				"DSS",
+				"boss",
+				",",
+				"Lawal",
+				"Daura",
+				".",
+				"#",
+				"tostvnetwork",
+				"#",
+				"politics"
+			],
+			"img_id": "twitter_stream_2018_08_07_8_0_2_220.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Osinbajo",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Lawal Daura",
+							"pos": [
+								10,
+								12
+							],
+							"tags": "per"
+						},
+						"relation": "charges"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Lawal Daura",
+							"pos": [
+								10,
+								12
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "DSS",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				]
+			],
+			"image_caption": [
+				"a man wearing glasses and a hat sitting on a couch"
+			],
+			"handcrafted_knowledge": "Osinbajo and Lawal Daura are both Nigerian politicians. Osinbajo is the current vice president, while Daura is the former director-general of the Department of State Service (DSS). Osinbajo sacked Daura on August 7, 2018, because Daura ordered a blockade of the National Assembly. So we can conclude that Osinbajo charges Lawal Daura and Lawal Daura was a member of DSS."
+		}
+	],
+	"alumi": [
+		{
+			"token": [
+				"RT",
+				"@AnnForWisconsin",
+				":",
+				"Thank",
+				"you",
+				"@CollegeDemsWI",
+				"for",
+				"making",
+				"it",
+				"up",
+				"to",
+				"Lodi",
+				"to",
+				"canvass",
+				"for",
+				"me",
+				"!",
+				"I",
+				"loved",
+				"your",
+				"energy",
+				"!",
+				"!"
+			],
+			"img_id": "twitter_stream_2018_06_11_20_0_2_71.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "@CollegeDemsWI",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Lodi",
+							"pos": [
+								11,
+								12
+							],
+							"tags": "per"
+						},
+						"relation": "alumi"
+					}
+				]
+			],
+			"image_caption": [
+				"three girls standing next to a sign on a sidewalk"
+			],
+			"handcrafted_knowledge": "@CollegeDemsWI is the official account of College Democrats of Wisconsin. She made up to Lodi, then we guess that they are alumni."
+		},
+		{
+			"token": [
+				"RT",
+				"@Patrici15767099",
+				":",
+				"John",
+				"Kerry",
+				"&",
+				"amp",
+				";",
+				"Robert",
+				"Mueller",
+				"are",
+				"high",
+				"school",
+				"buddies",
+				"."
+			],
+			"img_id": "twitter_stream_2018_05_07_5_0_2_182.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "John Kerry",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Robert Mueller",
+							"pos": [
+								8,
+								10
+							],
+							"tags": "per"
+						},
+						"relation": "alumi"
+					}
+				]
+			],
+			"image_caption": [
+				"a black and white photo of a group of men with red circles on them"
+			],
+			"handcrafted_knowledge": "The text mentioned that the two guys are high school buddies, so they are alumni."
+		}
+	],
+	"alternate_names": [
+		{
+			"token": [
+				"RT",
+				"@destructoid",
+				":",
+				"Ruby",
+				"Rose",
+				"cast",
+				"as",
+				"Batwoman",
+				"in",
+				"new",
+				"CW",
+				"show"
+			],
+			"img_id": "twitter_stream_2018_08_07_21_0_2_67.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Ruby Rose",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Batwoman",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"relation": "alternate_names"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Ruby Rose",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "CW",
+							"pos": [
+								10,
+								11
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Batwoman",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "CW",
+							"pos": [
+								10,
+								11
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				]
+			],
+			"image_caption": [
+				"a poster for the movie batman vs batwomancu buffs"
+			],
+			"handcrafted_knowledge": "Ruby Rose is an actor who played Batwoman, a superhero character, in the first season of a TV show called Batwoman on The CW, a television network."
+		},
+		{
+			"token": [
+				"coming",
+				"to",
+				"RRT",
+				"Friday",
+				":",
+				"BLACKkKLANSMAN",
+				",",
+				"a",
+				"Spike",
+				"Lee",
+				"Joint",
+				".",
+				"Tickets",
+				"and",
+				"times",
+				"here",
+				"..."
+			],
+			"img_id": "twitter_stream_2018_08_07_17_0_2_28.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Spike Lee Joint",
+							"pos": [
+								8,
+								11
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "BLACKkKLANSMAN",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "org"
+						},
+						"relation": "alternate_names"
+					}
+				]
+			],
+			"image_caption": [
+				"a poster of a movie with a person in a nun costume"
+			],
+			"handcrafted_knowledge": "Spike Lee Joint is a term used by the filmmaker Spike Lee to refer to his movies, which often explore themes of race, culture, and politics1BLACKkKLANSMAN is a 2018 Spike Lee Joint based on the true story of a black police officer who infiltrated the Ku Klux Klan."
+		}
+	],
+	"place_of_residence": [
+		{
+			"token": [
+				"RT",
+				"@trashygaytweets",
+				":",
+				"Kylie",
+				"Jenner",
+				"walking",
+				"around",
+				"Calabasas",
+				"with",
+				"her",
+				"newborn"
+			],
+			"img_id": "twitter_stream_2018_06_11_21_0_2_5.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Kylie Jenner",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Calabasas",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "loc"
+						},
+						"relation": "place_of_residence"
+					}
+				]
+			],
+			"image_caption": [
+				"a woman is pushing a baby stroller"
+			],
+			"handcrafted_knowledge": "Kylie Jenner is a celebrity, entrepreneur, and social media star who is part of the famous Kardashian-Jenner family1Calabasas is a city in Los Angeles County, California, where many celebrities live. Kylie Jenner bought her first home in Calabasas in 2015."
+		},
+		{
+			"token": [
+				"RT",
+				"@thehill",
+				":",
+				"Trump",
+				"to",
+				"make",
+				"first",
+				"visit",
+				"to",
+				"upstate",
+				"New",
+				"York",
+				"since",
+				"election"
+			],
+			"img_id": "twitter_stream_2018_08_07_20_0_2_197.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Trump",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "New York",
+							"pos": [
+								10,
+								12
+							],
+							"tags": "loc"
+						},
+						"relation": "place_of_residence"
+					}
+				]
+			],
+			"image_caption": [
+				"a man in a suit and tie is holding his hand out in the air"
+			],
+			"handcrafted_knowledge": "Donald Trump is the former president of the United States. New York is a state in the northeastern US, as well as the name of its largest city. Donald Trump was born and raised in New York City, where he built his business empire and lived in a luxury hotel called Trump Central Park."
+		}
+	],
+	"place_of_birth": [
+		{
+			"token": [
+				"RT",
+				"@ReutersUK",
+				":",
+				"Russia",
+				"'s",
+				"Putin",
+				"begins",
+				"new",
+				"presidential",
+				"term",
+				",",
+				"keeps",
+				"Medvedev",
+				"as",
+				"PM"
+			],
+			"img_id": "twitter_stream_2018_05_07_16_0_2_183.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Putin",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Russia",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "loc"
+						},
+						"relation": "place_of_birth"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Medvedev",
+							"pos": [
+								12,
+								13
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Russia",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "loc"
+						},
+						"relation": "place_of_birth"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Putin",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Medvedev",
+							"pos": [
+								12,
+								13
+							],
+							"tags": "per"
+						},
+						"relation": "peer"
+					}
+				]
+			],
+			"image_caption": [
+				"a man standing at a podium in front of a building"
+			],
+			"handcrafted_knowledge": "Putin is the surname of Vladimir Putin, the current president of Russia. Medvedev is the surname of Dmitry Medvedev, a Russian politician who was the president of Russia. They are both born in Russia."
+		},
+		{
+			"token": [
+				"RT",
+				"@BANGTANUK",
+				":",
+				"U.K.",
+				"Artist",
+				"Stormzy",
+				"went",
+				"to",
+				"the",
+				"concert",
+				"and",
+				"had",
+				"a",
+				"great",
+				"time",
+				"!",
+				"cr",
+				":",
+				"@/stormzy",
+				"on",
+				"instagram"
+			],
+			"img_id": "twitter_stream_2018_10_10_4_0_2_25.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Stormzy",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "U.K.",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "loc"
+						},
+						"relation": "place_of_birth"
+					}
+				]
+			],
+			"image_caption": [
+				"a screenshot of a screenshot of a cell phone"
+			],
+			"handcrafted_knowledge": "Stormzy is the stage name of Michael Ebenezer Kwadjo Omari Owuo Jr., a British rapper, singer and songwriter. He is one of the most popular and influential artists in the UK, known for his grime music, his social activism and his awards."
+		}
+	],
+	"member_of": [
+		{
+			"token": [
+				"RT",
+				"@jdpoc",
+				":",
+				"ICYMI",
+				"-",
+				"Ukip",
+				"'s",
+				"Johnathan",
+				"Jennings",
+				"Pleads",
+				"Guilty",
+				"-",
+				"And",
+				"More",
+				"Charges",
+				"To",
+				"Come"
+			],
+			"img_id": "twitter_stream_2018_08_07_18_0_2_156.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Johnathan Jennings",
+							"pos": [
+								7,
+								9
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Ukip",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				]
+			],
+			"image_caption": [
+				"a man wearing glasses and a purple shirt and tie"
+			],
+			"handcrafted_knowledge": "Ukip is the abbreviation of UK Independence Party, a political party in the United Kingdom that advocates for leaving the European Union and for right-wing populist policies. ICYMI is an acronym that stands for in case you missed it, often used on social media to highlight something important or interesting. Johnathan Jennings is a former Ukip member who was sentenced to 16 months in prison for posting online comments that threatened to kill Labour MPs and praised the murder of Jo Cox."
+		},
+		{
+			"token": [
+				"RT",
+				"@allkpop",
+				":",
+				"NCT",
+				"'s",
+				"Jisung",
+				"revealed",
+				"to",
+				"have",
+				"auditioned",
+				"for",
+				"'",
+				"Dancing",
+				"High",
+				"'"
+			],
+			"img_id": "twitter_stream_2018_08_07_2_3_22.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Jisung",
+							"pos": [
+								5,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "NCT",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				]
+			],
+			"image_caption": [
+				"a close up of a young boy with blue eyes and a white shirt"
+			],
+			"handcrafted_knowledge": "Jisung is the stage name of Park Ji-sung, a South Korean singer, dancer and actor who was born on February 5, 2002 in Seoul, South Korea. He is a member of the K-pop boy group NCT, where he serves as the main dancer."
+		},
+		{
+			"token": [
+				"RT",
+				"@MailSport",
+				":",
+				"Arsenal",
+				"complete",
+				"loan",
+				"signing",
+				"of",
+				"Denis",
+				"Suarez",
+				"from",
+				"Barcelona",
+				"#",
+				"DeadlineDay"
+			],
+			"img_id": "twitter_19_31_19_68.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Denis Suarez",
+							"pos": [
+								8,
+								10
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Barcelona",
+							"pos": [
+								11,
+								12
+							],
+							"tags": "org"
+						},
+						"relation": "member_of"
+					}
+				]
+			],
+			"image_caption": [
+				"a green screen with breaking news text on it"
+			],
+			"handcrafted_knowledge": "Denis Suarez is a Spanish professional footballer who plays as a midfielder for Villarreal CF in La Liga. He started his career at Barcelona, where he played for the first team and the B team, and also had loan spells at Sevilla, Villarreal and Arsenal."
+		}
+	],
+	"subsidiary": [
+		{
+			"token": [
+				"RT",
+				"@india_was",
+				":",
+				"Daily",
+				"Urdu",
+				"newspaper",
+				"Vandematram",
+				"dated",
+				"14th",
+				"April",
+				",",
+				"1931",
+				",",
+				"printed",
+				"from",
+				"Lahore",
+				"."
+			],
+			"img_id": "twitter_stream_2018_08_07_13_0_2_16.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Vandematram",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "Daily Urdu",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "org"
+						},
+						"relation": "subsidiary"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Daily Urdu",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "Lahore",
+							"pos": [
+								15,
+								16
+							],
+							"tags": "loc"
+						},
+						"relation": "locate_at"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Vandematram",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "Lahore",
+							"pos": [
+								15,
+								16
+							],
+							"tags": "loc"
+						},
+						"relation": "locate_at"
+					}
+				]
+			],
+			"image_caption": [
+				"a page of an old newspaper with writing on it"
+			],
+			"handcrafted_knowledge": "Vandematram is a Sanskrit poem written by Bankim Chandra Chatterjee in 1870s, which was later adopted as the national song of India. Daily Urdu is a generic term for newspapers that are published in Urdu, a language widely spoken in Pakistan, India, and other countries. Lahore is the capital city of the Pakistani province of Punjab and the second-largest city in Pakistan."
+		},
+		{
+			"token": [
+				"RT",
+				"@TheSource",
+				":",
+				"Warner",
+				"Brothers",
+				"&",
+				"amp",
+				";",
+				"DC",
+				"Comics",
+				"Drop",
+				"'",
+				"Aquaman",
+				"'",
+				"and",
+				"'",
+				"Shazam",
+				"'",
+				"Movie",
+				"Trailers",
+				"."
+			],
+			"img_id": "twitter_stream_2018_07_23_12_0_2_25.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Warner Brothers &",
+							"pos": [
+								3,
+								6
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "DC Comics",
+							"pos": [
+								8,
+								10
+							],
+							"tags": "org"
+						},
+						"relation": "subsidiary"
+					}
+				]
+			],
+			"image_caption": [
+				"a man holding a trident in front of a tank of fish"
+			],
+			"handcrafted_knowledge": "Warner Brothers is an American film and television studio that is a subsidiary of Warner Bros. Discovery. DC Comics is an American comic book publisher that is owned by Warner Bros. Discovery. Warner Brothers and DC Comics have a long-standing partnership to produce films, series, and animations based on DC Comics characters. They have created a shared cinematic universe called the DC Extended Universe."
+		}
+	],
+	"locate_at": [
+		{
+			"token": [
+				"Security",
+				"Council",
+				"experts",
+				"in",
+				"DR",
+				"Congo",
+				"to",
+				"assess",
+				"UN",
+				"'s",
+				"work"
+			],
+			"img_id": "twitter_19_31_23_70.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Security Council",
+							"pos": [
+								0,
+								2
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "DR Congo",
+							"pos": [
+								4,
+								6
+							],
+							"tags": "loc"
+						},
+						"relation": "locate_at"
+					}
+				]
+			],
+			"image_caption": [
+				"a man standing in front of a military truck"
+			],
+			"handcrafted_knowledge": "The Security Council is the main organ of the United Nations that is responsible for maintaining international peace and security and imposing sanctions or authorizing military action when necessary. The Democratic Republic of the Congo (DRC) is a large country in Central Africa that has been plagued by violence, conflict, and humanitarian crises for decades. The Security Council has been involved in the situation in the DRC since 1999, when it established the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) to support the peace process and protect civilians."
+		},
+		{
+			"token": [
+				"RT",
+				"@allkpop",
+				":",
+				"'",
+				"Produce",
+				"48",
+				"'",
+				"group",
+				"IZONE",
+				"to",
+				"travel",
+				"to",
+				"Japan",
+				"to",
+				"meet",
+				"with",
+				"AKB",
+				"producer"
+			],
+			"img_id": "twitter_stream_2018_09_04_1_0_2_103.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "AKB",
+							"pos": [
+								16,
+								17
+							],
+							"tags": "org"
+						},
+						"sec_ent": {
+							"name": "Japan",
+							"pos": [
+								12,
+								13
+							],
+							"tags": "loc"
+						},
+						"relation": "locate_at"
+					}
+				]
+			],
+			"image_caption": [
+				"a group of women wearing pink ties and shirts"
+			],
+			"handcrafted_knowledge": "Janpan is a asian country. AKB48 is a large female idol group in Japan, produced by Yasushi Akimoto. The name of the group comes from Akihabara, a district in Tokyo where the group’s theater is located. The group’s concept is “idols you can meet”, as they perform almost daily at their theater and interact with their fans."
+		}
+	],
+	"contain": [
+		{
+			"token": [
+				"RT",
+				"@iamrodneysmith",
+				":",
+				"Check",
+				"my",
+				"interview",
+				"from",
+				"Richmond",
+				",",
+				"VA",
+				"today"
+			],
+			"img_id": "twitter_stream_2018_06_11_23_0_2_18.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "VA",
+							"pos": [
+								9,
+								10
+							],
+							"tags": "loc"
+						},
+						"sec_ent": {
+							"name": "Richmond",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "loc"
+						},
+						"relation": "contain"
+					}
+				]
+			],
+			"image_caption": [
+				"a sign that says check out my interview in new at 6"
+			],
+			"handcrafted_knowledge": "VA is an abbreviation for Virginia, a state in the United States of America. Richmond is the capital city of Virginia, so VA contains Richmond."
+		},
+		{
+			"token": [
+				"RT",
+				"@ChangshaCity",
+				":",
+				"Changsha",
+				"is",
+				"a",
+				"3000",
+				"years",
+				"old",
+				"city",
+				"that",
+				"has",
+				"been",
+				"honored",
+				"as",
+				"one",
+				"of",
+				"China",
+				"'s",
+				"top",
+				"10",
+				"happiest",
+				"cities",
+				"."
+			],
+			"img_id": "twitter_stream_2018_07_23_8_0_2_66.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "China",
+							"pos": [
+								17,
+								18
+							],
+							"tags": "loc"
+						},
+						"sec_ent": {
+							"name": "Changsha",
+							"pos": [
+								3,
+								4
+							],
+							"tags": "loc"
+						},
+						"relation": "contain"
+					}
+				]
+			],
+			"image_caption": [
+				"a view of a park with a lake and amusement park attractions"
+			],
+			"handcrafted_knowledge": "Changsha is the capital and largest city of Hunan Province in China, so China contains Changsha."
+		}
+	],
+	"present_in": [
+		{
+			"token": [
+				"RT",
+				"@90sfootball",
+				":",
+				"Ryan",
+				"Giggs",
+				"scores",
+				"one",
+				"of",
+				"the",
+				"greatest",
+				"FA",
+				"Cup",
+				"goals",
+				"of",
+				"all",
+				"time",
+				"..."
+			],
+			"img_id": "twitter_stream_2018_05_07_22_0_2_141.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Ryan Giggs",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "FA Cup",
+							"pos": [
+								10,
+								12
+							],
+							"tags": "misc"
+						},
+						"relation": "present_in"
+					}
+				]
+			],
+			"image_caption": [
+				"a group of men playing soccer on a field"
+			],
+			"handcrafted_knowledge": "Ryan Giggs is a former professional footballer and current manager of the Wales national team. He played for Manchester United for his entire career, from 1990 to 2014, and is the most decorated player in British football history. He won the FA Cup, the oldest and most prestigious domestic cup competition in England, four times with Manchester United."
+		},
+		{
+			"token": [
+				"RT",
+				"@DisneyParks",
+				":",
+				"Jaq",
+				"&",
+				"amp",
+				";",
+				"Gus",
+				"keep",
+				"an",
+				"eye",
+				"on",
+				"Cinderella",
+				"Castle",
+				"in",
+				"today",
+				"'s",
+				"Disney",
+				"Doodle",
+				"!"
+			],
+			"img_id": "twitter_stream_2018_07_23_8_0_2_187.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Gus",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Disney Doodle",
+							"pos": [
+								17,
+								19
+							],
+							"tags": "misc"
+						},
+						"relation": "present_in"
+					}
+				]
+			],
+			"image_caption": [
+				"a screenshot of two dogs playing with water in a performance"
+			],
+			"handcrafted_knowledge": "Gus is a mouse who is a friend of Cinderella in the Disney animated film “Cinderella”. He is also known as Octavius. Disney Doodle is a series of illustrations by Disney artists that imagine what Disney characters would do or see if they visited the Walt Disney World Resort. Gus has appeared in some Disney Doodles, such as one where he snacks at Mickey’s Not-So-Scary Halloween Party and another where he and Jaq keep an eye on Cinderella Castle."
+		}
+	],
+	"awarded": [
+		{
+			"token": [
+				"RT",
+				"@UT_Baseball",
+				":",
+				"The",
+				"@RawlingsSports",
+				"Gold",
+				"Glove",
+				"has",
+				"arrived",
+				"for",
+				"@DrewEhrhard",
+				".",
+				"#",
+				"TampaBaseball"
+			],
+			"img_id": "twitter_stream_2018_08_07_17_0_2_17.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "@DrewEhrhard",
+							"pos": [
+								10,
+								11
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "@RawlingsSports Gold Glove",
+							"pos": [
+								4,
+								7
+							],
+							"tags": "misc"
+						},
+						"relation": "awarded"
+					}
+				]
+			],
+			"image_caption": [
+				"a helmet and a gold book on a display case"
+			],
+			"handcrafted_knowledge": "Drew Ehrhard is a baseball player who plays for the University of Tampa Spartans. He is a second baseman who won the ABCA/Rawlings Gold Glove award in 2018, becoming the first freshman in program history to receive the honor. The Gold Glove award is given to the best defensive players in each position."
+		},
+		{
+			"token": [
+				"RT",
+				"@IamGMJohnson",
+				":",
+				"Wait",
+				".",
+				"J",
+				"-",
+				"Lo",
+				"won",
+				"a",
+				"Billboard",
+				"Icon",
+				"Award",
+				"before",
+				"Janet",
+				"Jackson",
+				"?"
+			],
+			"img_id": "twitter_stream_2018_05_07_11_0_2_109.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Lo",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Billboard Icon Award",
+							"pos": [
+								10,
+								13
+							],
+							"tags": "misc"
+						},
+						"relation": "awarded"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Lo",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Janet Jackson",
+							"pos": [
+								14,
+								16
+							],
+							"tags": "per"
+						},
+						"relation": "peer"
+					}
+				]
+			],
+			"image_caption": [
+				"a woman wearing a pink shirt and a black jacket"
+			],
+			"handcrafted_knowledge": "The Billboard Icon Award is an award that recognizes music singers and their contribution. It was established in 2011 and is given at the Billboard Music Awards and the Billboard Latin Music Awards. Jennifer Lopez, also known as J.Lo, is a singer, actress, dancer, and producer who has received the Billboard Icon Award twice. She was the first female recipient of the award in 2014 at the Billboard Music Awards. J.Lo and Janet Jackson are both amazing artists who have made a huge impact on pop culture."
+		}
+	],
+	"race": [
+		{
+			"token": [
+				"RT",
+				"@LALewman",
+				":",
+				"@CNNPolitics",
+				"Remember",
+				"when",
+				"Obama",
+				"wrote",
+				"an",
+				"op",
+				"-",
+				"ed",
+				"bashing",
+				"Republicans",
+				"?",
+				"Me",
+				"neither",
+				"."
+			],
+			"img_id": "twitter_stream_2018_10_10_16_0_2_126.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Obama",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Republicans",
+							"pos": [
+								13,
+								14
+							],
+							"tags": "misc"
+						},
+						"relation": "race"
+					}
+				]
+			],
+			"image_caption": [
+				"two pictures of president trump and president obama saying i got a noble peace investigation"
+			],
+			"handcrafted_knowledge": "Obama is the former president of the United States, who served from 2009 to 2017. He is the first African American president in the country’s history. Republicans are one of the two major political parties in the United States, who generally oppose Obama’s policies and views."
+		},
+		{
+			"token": [
+				"RT",
+				"@RealSaavedra",
+				":",
+				"Democrat",
+				"Eric",
+				"Holder",
+				":",
+				"When",
+				"Republicans",
+				"Go",
+				"Low",
+				",",
+				"\"",
+				"We",
+				"Kick",
+				"Them",
+				"\""
+			],
+			"img_id": "twitter_stream_2018_10_10_14_0_2_128.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Eric Holder",
+							"pos": [
+								4,
+								6
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Republicans",
+							"pos": [
+								8,
+								9
+							],
+							"tags": "misc"
+						},
+						"relation": "race"
+					}
+				]
+			],
+			"image_caption": [
+				"a man in a white shirt giving a presentation"
+			],
+			"handcrafted_knowledge": "Eric Holder is an American lawyer who served as the 82nd United States attorney general from 2009 to 2015. He was appointed by President Barack Obama and was the first African American to hold the position. He is a member of the Democratic Party, which is one of the two major political parties in the United States. The other party is the Republican Party, which generally opposes the Democrats on many issues."
+		}
+	],
+	"religion": [
+		{
+			"token": [
+				"RT",
+				"@STForeignDesk",
+				":",
+				"#",
+				"Pope",
+				"accepts",
+				"resignation",
+				"of",
+				"3",
+				"Chilean",
+				"bishops",
+				"in",
+				"#",
+				"sex",
+				"abuse",
+				"scandal"
+			],
+			"img_id": "twitter_stream_2018_06_11_21_0_2_185.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Pope",
+							"pos": [
+								4,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Chilean",
+							"pos": [
+								9,
+								10
+							],
+							"tags": "misc"
+						},
+						"relation": "religion"
+					}
+				]
+			],
+			"image_caption": [
+				"two men in white robes are standing next to a cross"
+			],
+			"handcrafted_knowledge": "The Pope is the leader of the Catholic Church and the Bishop of Rome."
+		},
+		{
+			"token": [
+				"RT",
+				"@ahmadhabbibi",
+				":",
+				"my",
+				"friend",
+				"accepted",
+				"Islam",
+				"and",
+				"became",
+				"a",
+				"brother",
+				"!",
+				"!",
+				"May",
+				"Allah",
+				"guide",
+				"him",
+				".",
+				"Allahuakbar"
+			],
+			"img_id": "twitter_stream_2018_08_07_6_0_2_180.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Allah",
+							"pos": [
+								14,
+								15
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Islam",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "misc"
+						},
+						"relation": "religion"
+					}
+				]
+			],
+			"image_caption": [
+				"religious leader blessing a group of people in a mosque"
+			],
+			"handcrafted_knowledge": "Allah is the Arabic word for God, and the main term for God in Islam. Muslims believe that Allah is the one and only true God, who created and sustains everything in the universe. Allah is also the same God worshipped by Jews and Christians, as Islam is an Abrahamic religion that shares the same monotheistic belief."
+		}
+	],
+	"nationality": [
+		{
+			"token": [
+				"RT",
+				"@FavManzo",
+				":",
+				"Luca",
+				"Argentero",
+				"is",
+				"an",
+				"Italian",
+				"manzo"
+			],
+			"img_id": "twitter_stream_2018_08_07_4_0_2_155.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Luca Argentero",
+							"pos": [
+								3,
+								5
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Italian",
+							"pos": [
+								7,
+								8
+							],
+							"tags": "misc"
+						},
+						"relation": "nationality"
+					}
+				]
+			],
+			"image_caption": [
+				"a man in front of a flag of italy"
+			],
+			"handcrafted_knowledge": "Luca Argentero is an Italian actor, model and TV host who was born in Turin in 1978."
+		},
+		{
+			"token": [
+				"RT",
+				"@tzoumio",
+				":",
+				"The",
+				"Amazon",
+				"queen",
+				"Melanippe",
+				".",
+				"Ancient",
+				"Greek",
+				"mosaic",
+				"from",
+				"ancient",
+				"Antiochia",
+				"."
+			],
+			"img_id": "twitter_stream_2018_05_07_9_0_2_49.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Melanippe",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Amazon",
+							"pos": [
+								4,
+								5
+							],
+							"tags": "misc"
+						},
+						"relation": "nationality"
+					}
+				]
+			],
+			"image_caption": [
+				"a painting of a woman on a horse"
+			],
+			"handcrafted_knowledge": "Melanippe was an Amazon warrior in Greek mythology, the daughter of Ares, the god of war, and the sister of Hippolyta, Penthesilea and Antiope, who were all queens of the Amazons."
+		}
+	],
+	"part_of": [
+		{
+			"token": [
+				"'",
+				"Star",
+				"Wars",
+				":",
+				"Episode",
+				"IX",
+				"'",
+				"script",
+				"made",
+				"Domhnall",
+				"Gleeson",
+				"paranoid"
+			],
+			"img_id": "twitter_stream_2018_09_04_10_0_2_195.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Episode IX",
+							"pos": [
+								4,
+								6
+							],
+							"tags": "misc"
+						},
+						"sec_ent": {
+							"name": "Star Wars",
+							"pos": [
+								1,
+								3
+							],
+							"tags": "misc"
+						},
+						"relation": "part_of"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Domhnall Gleeson",
+							"pos": [
+								9,
+								11
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Star Wars",
+							"pos": [
+								1,
+								3
+							],
+							"tags": "misc"
+						},
+						"relation": "present_in"
+					}
+				],
+				[
+					{
+						"beg_ent": {
+							"name": "Domhnall Gleeson",
+							"pos": [
+								9,
+								11
+							],
+							"tags": "per"
+						},
+						"sec_ent": {
+							"name": "Episode IX",
+							"pos": [
+								4,
+								6
+							],
+							"tags": "misc"
+						},
+						"relation": "present_in"
+					}
+				]
+			],
+			"image_caption": [
+				"a screenshot of a man in a dark room"
+			],
+			"handcrafted_knowledge":"Star Wars is a popular science fiction franchise that started with a film in 1977. Episode IX of Star Wars is also known as Star Wars: The Rise of Skywalker, the final film in the sequel trilogy and the Skywalker saga. Domhnall Gleeson is an Irish actor who played General Hux in Episode IX of Star Wars, as well as in the previous two films of the sequel trilogy."
+		},
+		{
+			"token": [
+				"RT",
+				"@OriginalFunko",
+				":",
+				"RT",
+				"&",
+				"amp",
+				";",
+				"follow",
+				"@OriginalFunko",
+				"for",
+				"the",
+				"chance",
+				"to",
+				"win",
+				"a",
+				"Spirit",
+				"exclusive",
+				"Hocus",
+				"Pocus",
+				"Pop",
+				"!",
+				"prize",
+				"pack",
+				"!"
+			],
+			"img_id": "twitter_stream_2018_07_23_27_0_2_17.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Hocus Pocus Pop",
+							"pos": [
+								17,
+								20
+							],
+							"tags": "misc"
+						},
+						"sec_ent": {
+							"name": "Spirit",
+							"pos": [
+								15,
+								16
+							],
+							"tags": "misc"
+						},
+						"relation": "part_of"
+					}
+				]
+			],
+			"image_caption": [
+				"a selection of figurines of harry potter and the deathly hallows"
+			],
+			"handcrafted_knowledge": "Hocus Pocus Pop is a series of vinyl figures based on the characters from the Disney movie Hocus Pocus, which is a comedy about three witch sisters who are resurrected on Halloween night. Spirit is a store that sells Halloween costumes, decorations and accessories. Spirit has an exclusive Hocus Pocus Pop figure of Dani, the main protagonist of the movie."
+		}
+	],
+	"held_on": [
+		{
+			"token": [
+				"RT",
+				"@Kawartha411",
+				":",
+				"Hundreds",
+				"at",
+				"the",
+				"protest",
+				"of",
+				"the",
+				"cancellation",
+				"of",
+				"Basic",
+				"Income",
+				"Pilot",
+				"Project",
+				"in",
+				"Lindsay",
+				"!",
+				"#",
+				"kawartha411"
+			],
+			"img_id": "twitter_stream_2018_08_07_14_0_2_176.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "Basic Income Pilot Project",
+							"pos": [
+								11,
+								15
+							],
+							"tags": "misc"
+						},
+						"sec_ent": {
+							"name": "Lindsay",
+							"pos": [
+								16,
+								17
+							],
+							"tags": "loc"
+						},
+						"relation": "held_on"
+					}
+				]
+			],
+			"image_caption": [
+				"a group of people holding signs and protesting in a park"
+			],
+			"handcrafted_knowledge": "The Basic Income Pilot Project was an initiative by the Government of Ontario to provide a monthly income to low-income individuals and families in three communities: Lindsay, Hamilton and Thunder Bay. The project aimed to test whether a basic income could improve the lives of people living in poverty, reduce inequality, and increase social and economic opportunities."
+		},
+		{
+			"token": [
+				"World",
+				"Cup",
+				"Francia",
+				"1938",
+				"Match",
+				":",
+				"France",
+				"1",
+				"-",
+				"Italy",
+				"3"
+			],
+			"img_id": "twitter_stream_2018_05_07_14_0_2_116.jpg",
+			"label_list": [
+				[
+					{
+						"beg_ent": {
+							"name": "World Cup Francia 1938",
+							"pos": [
+								0,
+								4
+							],
+							"tags": "misc"
+						},
+						"sec_ent": {
+							"name": "France",
+							"pos": [
+								6,
+								7
+							],
+							"tags": "loc"
+						},
+						"relation": "held_on"
+					}
+				]
+			],
+			"image_caption": [
+				"a group of men playing soccer on a field"
+			],
+			"handcrafted_knowledge": "The World Cup France 1938 was the third edition of the FIFA World Cup, the international football tournament for men’s national teams."
+		}
+	]
+}
